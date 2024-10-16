@@ -19,7 +19,7 @@ Get ready for a rollercoaster ride through the world of cybersecurity. We'll tac
 Let's connect and share our experiences in the cyber community:
 
 - **LinkedIn:** https://www.linkedin.com/in/herb-stonewell-935a572ba/
-- **Twitter:** @wizcipher
+- **Twitter:** @wizCipher13
 - **Email:** wiz.cipher@gmail.com
 
 Join me on this epic quest through the digital frontier, where every challenge is a chance to grow and every victory is a step closer to mastering the art of cybersecurity. Together, we'll make our mark in the cyber world! 🔒
